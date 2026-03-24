@@ -3,7 +3,7 @@
 <h3 align="center">⚡ ECE Student | IoT Enthusiast | Aspiring Software Developer</h3>
 
 <p align="center">
-  Passionate about building real-world hardware projects and exploring software development.
+  Passionate about building real-world software development.
 </p>
 
 ---
@@ -11,8 +11,8 @@
 <!-- Contact Links -->
 <p align="center">
   <a href="mailto:kunalraj898@gmail.com">Email</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">GitHub</a>
+  <a href="https://www.linkedin.com/in/kunal-verma-8b499b279/">LinkedIn</a> •
+  <a href="https://github.com/Kunalraj898">GitHub</a>
 </p>
 
 ---
